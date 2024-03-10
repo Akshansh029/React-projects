@@ -1,0 +1,17 @@
+.accordion-item {
+  max-width: 700px;
+  margin: 20px 0px;
+  padding: 1rem;
+  background-color: rgb(116, 220, 255);
+  border: 2px solid black;
+  border-radius: 15px;
+}
+.question {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+.answer {
+  margin-top: 15px;
+  font-size: 17px;
+}
