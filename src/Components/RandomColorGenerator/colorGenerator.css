@@ -1,0 +1,14 @@
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  color: white;
+}
+.container button {
+  background-color: rgb(119, 187, 255);
+}
+
+.container h1 {
+  font-size: 3rem;
+}
